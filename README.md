@@ -80,5 +80,51 @@ decisão (decision tree ou árvore C4.5);
 7. Análise dos resultados do algoritmo baseline;
 8. Análise dos resultados dos três algoritmos de aprendizado de máquina supracitados;
 
-## Resultados
+## A seguir, alguns graficos dos resultados obtidos com o trabalho. Para ver em detalhes todo o trabalho desenvolvido e tudo o que foi implementado, acessar o notebook.
 
+### Porcentagem da moda por colunas + categorias
+
+![Porcentagem da moda por colunas + categorias](imagens/1.atributos.png)
+
+### LDA Treino
+
+![LDA Treino](imagens/2.LDA_Treino.png)
+
+### LDA Teste
+
+![LDA Teste](imagens/3.LDA_Teste.png)
+
+### Matriz de confusão Algoritmo Baseline
+
+![Matriz de confusão Algoritmo Baseline (Validação com Leave-One_Out)](imagens/7.Matriz_Confusao_BaseLine.png)
+
+### Matriz de confusão KNN (Validação com Leave-One_Out)
+
+![Matriz de confusão KNN (Validação com Leave-One_Out)](imagens/4.Matriz_Confusao_KNN.png)
+
+### Matriz de confusão Árvore de Decisão (Validação com Leave-One_Out)
+
+![Matriz de confusão Árvore de Decisão (Validação com Leave-One_Out)](imagens/5.Matriz_Confusao_Arvore_Decisao.png)
+
+### Matriz de confusão MLP (Validação com Leave-One_Out)
+
+![Matriz de confusão MLP (Validação com Leave-One_Out)](imagens/6.Matriz_Confusao_MLP.png)
+
+### Métricas obtidas com o conjunto de validação para o KNN, Árvore de Decisão e MLP
+
+![Métricas obtidas com o conjunto de validação para os três algoritmos implementados](imagens/8.Metricas_Validacao.png)
+
+### Gráfico de compação dos algoritmos em ordem crescente da média dos resultados para o conjunto de validação
+![Gráfico de compação dos algoritmos em ordem crescente da média dos resultados para o conjunto de validação](imagens/9.Grafico_Validacao.png)
+
+### Gráfico de barras de Verdadeiro Positivo (VP), Falso Positivo (FP), Verdadeiro Negativo (VN) e Falso Negativo (FN), para os resultados obtidos com o cojunto de teste para o KNN, Árvore de Decisão e MLP
+
+ ![Gráfico de Barras Teste](imagens/10.Grafico_1_Teste.png)
+
+### Métricas obtidas com o conjunto de teste para o KNN, Árvore de Decisão e MLP
+
+![Metricas Teste](imagens/11.Metricas_Teste.png)
+
+### Gráfico de compação dos algoritmos e do algoritmo de baseline em ordem crescente da média dos resultados para o conjunto de teste
+
+![Grafico teste](imagens/12.Grafico_2_Teste.png)
