@@ -6,6 +6,8 @@ Professor: Douglas Castilho Braz
 
 Projeto de Data Science e Machine Learning com base de dados de jogos de xadrez para prever se as brancas vão vencer ou não.
 
+Fonte: UC Irvine Machine Learning Repository - https://archive.ics.uci.edu/dataset/22/chess+king+rook+vs+king+pawn
+
 ## Visão Geral do Conjunto de Dados
 
  O dataset **KRKPA7** descreve posições de fim de jogo de xadrez envolvendo **rei e torre (brancas) contra
