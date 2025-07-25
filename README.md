@@ -80,7 +80,7 @@ decisão (decision tree ou árvore C4.5);
 7. Análise dos resultados do algoritmo baseline;
 8. Análise dos resultados dos três algoritmos de aprendizado de máquina supracitados;
 
-## A seguir, alguns graficos dos resultados obtidos com o trabalho. Para ver em detalhes todo o trabalho desenvolvido e tudo o que foi implementado, acessar o notebook.
+## A seguir, algumas imagens dos resultados obtidos com o trabalho. Para ver em detalhes todo o trabalho desenvolvido e tudo o que foi implementado, acessar o notebook "Trabalho.ipynb" disponível neste mesmo repositório.
 
 ### Porcentagem da moda por colunas + categorias
 
