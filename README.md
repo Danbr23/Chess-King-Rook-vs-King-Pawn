@@ -29,6 +29,8 @@ O conjunto de dados possui duas classes-alvo: **"won"** (brancas podem forçar a
  representada como uma sequência de 36 valores categóricos seguida pelo rótulo "won" ou "nowin"
  indicando se White-can-win (brancas vencem) ou White-cannot-win 
 
+![Features](imagens/chess.features.png)
+
 # Roteiro:
 
 ## Pré-processamento e Análise
@@ -130,3 +132,8 @@ decisão (decision tree ou árvore C4.5);
 ### Gráfico de compação dos algoritmos e do algoritmo de baseline em ordem crescente da média dos resultados para o conjunto de teste
 
 ![Grafico teste](imagens/12.Grafico_2_Teste.png)
+
+## Referências
+
+* MICHIE, Donald. Consciousness as an engineering issue. Part 2. Journal of Consciousness Studies, v. 2, n. 1, p. 52-66, 1995. Link: https://cseweb.ucsd.edu/~elkan/151/michie.pdf
+* https://notolog.blogspot.com/2011/01/features-of-uci-chess-data-sets.html
